@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, Verdana, Sans-serif;
+    color: rgb(2, 84, 20);
+}
+
+h1 {
+    background-color: black;
+    color:rgb(37, 203, 81);
+    font-size: 40px;
+}
+
+H2 {
+    background-color:antiquewhite;
+    color: rgb(5, 94, 172);
+}
+h3 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    margin: 20px;
+    
+}
+
+button {
+
+background-color: antiquewhite;
+display: block;
+margin: 20px;
+}
+
+img {
+        height: 300px;
+        width: 500px;
+        margin-left: 50px;
+        margin-right: 50px;
+}
